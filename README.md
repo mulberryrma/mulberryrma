@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rafael.
+- 🌱 I’m currently learning how to build a blockchain and a cryptocurrency.
+- 💞️ I’m looking to collaborate on projects that develop Artificial Intelligence in Chemical Process Systems - I'm a Chemical Engineer.
+- 📫 How to reach me: mulberryrma@outlook.com
